@@ -132,8 +132,8 @@ Campbell ([Román e Campbell 2001]).
 
 ### - Contexto de um dispositivo em um prédio
 
-Para os metadados agregados à informação de posição pelo prédio definimos que o
-modelo de divulgação terá de conter além da posição do dispositivo informação
+Para os metadados agregados à informação de posição pelo prédio, definimos que o
+modelo de divulgação terá de conter além da posição do dispositivo: informação
 sobre este (nome, histórico), informação da estrutura do prédio (mapa imagem,
 mapa lógico, nome, localização global, endereço, etc), ligação entre a estrutura
 do prédio e a localização do dispositivo (posição no mapa lógico) e informação
@@ -145,9 +145,9 @@ relacionamento das informações providas. Essa métrica também será utilizada
 avaliar o projeto final.
 
 Este foco em reusabilidade vem da definição de Web Semantica (*Semantic Web*) e
-de uma de suas realisadoras, a Ligação de Dados (*Linked Data*), que sugerem o
+de uma de suas realisadoras, a Ligação de Dados (*Linked Data*), que sugere o
 uso de um formato padrão além de ser acessível e gerenciável pelas ferramentas
-de exploração. Desta forma a Web de Dados (*Web of Data*) é construida opondo
+de exploração. Desta forma a Web de Dados (*Web of Data*) é construída opondo
 uma simples coleção de dados [W3C, 2015].
 
 [W3C, 2015]:(<https://www.w3.org/standards/semanticweb/data> "Data - W3C")
@@ -156,8 +156,8 @@ uma simples coleção de dados [W3C, 2015].
 ## Localização baseada em redes sem fio
 
 Para o sistema de posicionamento nos baseamos em técnicas de triângulação de
-distâncias adquiridas com a medição de caracteristicas eletromagnéticas (ex.:
-potência de sinal) e caracteristicas dos protocolos (ex.: Tempo de chegada) que
+distâncias adquiridas com a medição de características eletromagnéticas (ex.:
+potência de sinal) e características dos protocolos (ex.: Tempo de chegada) que
 já foram explorados anteriormente ([Abusubaih et al, 2007], [Bahillo et al,
 2009], [Feldmann et al, 2003]).
 
